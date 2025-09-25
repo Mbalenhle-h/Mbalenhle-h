@@ -16,10 +16,7 @@
 <a href="https://linkedin.com/in/mbalenhle hlatshwayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mbalenhle hlatshwayo" height="30" width="40" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/mbalenhle-h/mbalenhle-h/output/snake.svg" alt="Snake animation" />
-
-###
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
@@ -47,3 +44,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin-right: 15px;" />
   </a>
 </p>
+
+
+
+### 🐍 Snake animation
+
+<img src="https://raw.githubusercontent.com/mbalenhle-h/mbalenhle-h/output/snake.svg" alt="Snake animation" />
+
+###
