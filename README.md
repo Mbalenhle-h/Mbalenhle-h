@@ -22,3 +22,5 @@
 
 <h3 align="left">Snake animation:</h3>
 <img src="https://raw.githubusercontent.com/mbalenhle-h/mbalenhle-h/output/snake.svg" alt="Snake animation" />
+
+###
