@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 💬 Ask me about **Microsoft**
+- 💬 Ask me about **Microsoft Office**
 
 - 📫 How to reach me **mbahlatshwayo004@gmail.com**
 
